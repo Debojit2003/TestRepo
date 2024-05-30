@@ -1,4 +1,4 @@
-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
+
 
 #!/bin/bash
 apt-get update
