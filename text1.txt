@@ -1,0 +1,6 @@
+git init
+dir
+git add .
+git commit -m "done"
+git remote add origin  https://github.com/Debojit2003/new.git
+git push -u origin master
