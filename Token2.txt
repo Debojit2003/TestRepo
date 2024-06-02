@@ -22,7 +22,7 @@ sudo apt install nodejs
 node -v
 
 
-git clone https://github.com/sudip7407/Repo1.git
+https://github.com/Debojit2003/TestRepo.git
 cd Repo1
 
 npm install
